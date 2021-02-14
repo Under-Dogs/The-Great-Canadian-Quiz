@@ -1,0 +1,190 @@
+Q:What is the total number of time zones in Canada?
+A:6 time zones exist in Canada
+0:5 time zones exist in Canada
+0:4 time zones exist in Canada
+0:9 time zones exist in Canada
+Q:The famous Canadian hockey player “Wayne Gretzky” played only for which team?
+A:Edmonton Oilers
+0:Calgary Flames
+0:Winnipeg Jets
+0:Toronto Maple Leafs
+Q:The name Canada comes from Iroquois language which means what?
+A:Village or Settlements
+0:Open sky
+0:Land of the free
+0:North
+Q:In Canada what is a loonie?
+A:1 dollar Canadian coin is called loonie
+0:2 dollar Canadian coin is called loonie
+0:A sweater
+0:A canadian goose
+Q:The maple leaf exists in the flag of Canada has how many corners/ points?
+A:11 points in total
+0:13 points in total
+0:5 points in total
+0:7 points in total
+Q:“He shoots, he scores” is the famous sports phrase of who?
+A:Foster Hewitt
+0:Don Cherry
+0:Wayne Gretzky
+0:Gordie Howe
+Q:Which Canadian city hosted Olympics games?
+A:Montreal
+0:Edmonton
+0:Toronto
+0:Winnipeg
+Q:What are the 2 official languages used in Canada?
+A:English and French
+0:English and Spanish
+0:English and Ojibway
+0:English and Inuktitut
+Q:Which is the only official bilingual province of Canada?
+A:New Brunswick
+0:Quebec
+0:Nova Scotia
+0:Ontario
+Q:How many total provinces exist in Canada?
+A:Total 10 provinces exist in Canada
+0:Total 11 provinces exist in Canada
+0:Total 9 provinces exist in Canada
+0:Total 13 provinces exist in Canada
+Q:Canada is the second largest country in the world by area. Do you know the total area in square kilometers?
+A:9.98 million square kilometers
+0:25.67 million square kilometers
+0:13.55 million square kilometers
+0:10.49 million square kilometers
+Q:The southern side of Canada has a border with America, how long is this border?
+A:8891 Kilometers
+0:5673 Kilometers
+0:6789 Kilometers
+0:9056 Kilometers
+Q:Which 2 countries have the world longest bi-national land borders?
+A:America and Canada
+0:China and Mongolia
+0:Canada and Greenland
+0:Kazakhstan and Russia
+Q:What is the capital city of Canada?
+A:Ottawa
+0:Toronto
+0:Montreal
+0:Vancouver
+Q:Name the 3 largest metropolitan areas of Canada?
+A:Toronto, Montreal, and Vancouver
+0:Calgary, Montreal, and Vancouver
+0:Toronto, Calgary, and Edmonton
+0:Winnipeg, Ottawa, and Montreal
+Q:What is the largest city in Canada?
+A:Toronto
+0:Vancouver
+0:Calgary
+0:Saskatoon
+Q:On which date Canadian Confederation was developed?
+A:July 1, 1867
+0:July 1, 1876
+0:July 1, 1767
+0:July 1, 1776
+Q:What is the currency name of Canada?
+A:$ CAD
+0:$ CDA
+0:$ USD
+0:$ CD
+Q:Who was the second prime minister of Canada?
+A:Alexander Mackenzie
+0:John A. Macdonald
+0:John Abbott
+0:Wilfrid Laurier
+Q:The Canadian flag first appearance on which date?
+A:February 15, 1965
+0:July 1, 1876
+0:February 5, 1904
+0:October 20, 1867
+Q:The province Newfoundland join Canadian confederation on which date?
+A:March 31, 1949
+0:May 12, 1932
+0:March 29, 1903
+0:March 14, 1956 
+Q:On December 6, 1917, Which two ships collided result 2000 people died in the result of an explosion?
+A:SS Mont-Blanc and the SS IMO
+0:SS IMO and the SS Brandon
+0:SS Goose Bay and the SS Mont-Blanc
+0:SS Halifax and the SS Goose Bay
+Q:In which year Tom Longboat won the Boston Marathon?
+A:In 1907
+0:In 1917
+0:In 1941
+0:In 1923
+Q:In Canada what percentage of populations are European?
+A:74.3% according to Wikipedia
+0:56.1% according to Wikipedia
+0:79.2% according to Wikipedia
+0:67.9% according to Wikipedia
+Q:What is the percentage of Christianity in Canada?
+A:67.2% according to Wikipedia
+0:12.3% according to Wikipedia  
+0:36.7% according to Wikipedia
+0:78.2% according to Wikipedia
+Q:Which canadian province has the largest population?
+A:Ontario
+0:British Columbia
+0:Quebec
+0:Alberta
+Q:What is the Canadian national police force's acronym?
+A:RCMP
+0:RPMC
+0:RMPC
+0:PRMC
+Q:On which date in 2017 was a Quebec City mosque subject of a mass shooting, resulting in 6 deaths and numerous injured?
+A:January 27, 2017
+0:June 10, 2014
+0:November 14, 1994
+0:January 27, 2015
+Q:Jagmeet Singh won which election? Making him the first visible minority and first Sikh to lead a major federal political party in Canada?
+A:2017 NDP leadership election
+0:2015 Prime Minister election
+0:2017 Liberal leadership election
+0:2015 Green leadership election
+Q:On which date did the Premier of Saskatchewan, Brad Wall, announce his pending retirement from politics?
+A:August 10, 2017
+0:August 6, 2004
+0:June 10, 2009
+0:February 29, 2016
+Q:Where was the 2018 Memorial Cup held?
+A:Brandt Centre in Regina
+0:BMO field in Toronto
+0:BC Place in Vancouver
+0:Olympic stadium in Montreal
+Q:Which Canadian city is home to North America's largest mall?
+A:Edmonton
+0:Toronto
+0:Ottowa
+0:Halifax
+Q:What is the population of Canada as of 2021?
+A:37 million
+0:30 million
+0:53 million
+0:44 million
+Q:In which province does Jasper National Park of Canada reside?
+A:Alberta
+0:British Columbia
+0:Ontario
+0:Quebec
+Q:On which year was Jasper National Park established?
+A:In 1907
+0:May 18, 1914
+0:April 28, 1930
+0:April 29, 1952
+Q:What is the total height of Niagara Fall?
+A:167 ft
+0:203 ft
+0:130 ft
+0:160 ft
+Q:Who is the only Canadian to win the NBA MVP award?
+A:Steve Nash
+0:Jamal Murray
+0:Andrew Wiggins
+0:RJ Barret
+Q:Whose face is on the Canadian 100 dollar bill?
+A:Robert Border
+0:Wilfred Laurier
+0:John A. MacDonald
+0:Justin Trudeau

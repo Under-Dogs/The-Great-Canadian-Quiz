@@ -1,0 +1,191 @@
+html{
+    background-size: 100% 100%;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    min-width: 100%;
+    min-height: 100vh;
+    background: linear-gradient( white,#D22020) fixed;
+    margin: 0;
+    padding: 0;
+    background-size:contain;
+    background-repeat: no-repeat;
+     
+}
+
+#container{
+
+    min-width: 90%;
+    min-height: 85vh;
+    background-color: #ffffff10; 
+    backdrop-filter: blur(4px);
+    position: absolute;
+    left: 5%;
+    top: 7%;
+    
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle{
+
+    background-color: #083813;
+    
+    min-width: 12%;
+    min-height: 18%;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#circle1{
+ 
+    left: 0;
+    top: 0;
+}
+
+#circle2{
+
+    right: 0;
+    top: 0;
+}
+
+#circle3{
+
+    left: 0;
+    bottom: 0;
+}
+
+#circle4{
+
+    right: 0;
+    bottom: 0;
+}
+
+form{
+
+    min-width: 84%;
+    min-height: 75vh;
+}
+
+#row0{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#qLabel{
+
+    margin-top: 2%;
+    font-size: 295%;
+    margin-bottom: 4%;
+
+}
+
+#question{
+
+    background-color: #F1F3E636;
+    margin-bottom: 5vh;
+    font-size: 180%;
+    margin-top: 1%;
+    padding: 3%;
+}
+
+#opt1, #opt2, #opt3, #opt4{
+
+    background-color: rgba(0, 0, 0, 0.28);
+    width: 42%;
+    padding: 1.2%;
+    font-size: 210%;
+    color: rgb(209, 208, 208);
+    
+}
+
+#row1, #row2{
+
+    display: flex;
+    margin-left: 0%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.checkButton{
+
+    min-width: 4.5vh;
+    min-height: 8.3vh;
+    background-color: rgb(65, 10, 10);
+    margin-left: 1%;
+
+    color: rgb(180, 169, 125);
+    font-size: 300%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkButton:hover{
+    
+    background-color: rgb(44, 7, 7);
+    cursor: pointer;
+}
+
+#row3{
+
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#submitB, #nextB{
+
+    min-width: 8%;
+    min-height: 10vh;
+    background-color: rgba(0, 0, 0, 0.281);
+    color: rgb(209, 208, 208);
+    text-decoration: none;
+    font-size: 140%;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#submitB:hover, #nextB:hover{
+
+    background-color: rgba(0, 0, 0, 0.555);
+    cursor: pointer;
+
+}
+
+#nextB{
+    font-size: 300%;
+}
+
+#themes{
+
+    background-color: rgb(0, 0, 0);
+    max-width: 5%;
+    min-height: 2vh;
+    padding: 2%;
+    color:rgb(165, 163, 163);
+    border-radius: 10%;
+    z-index: 10 ;
+    
+    position: absolute;
+    right:2%;
+    top:3%;
+}
+
+#themes:hover{
+    background-color: rgb(23, 37, 1);
+}

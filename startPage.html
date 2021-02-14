@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Canadian Trivia</title>
+    <link rel="stylesheet" href="TriviaStyle.css">
+</head>
+
+<body>
+    <div id="navigation">
+        <h1>The Great Canadian Quiz</h1>
+        <div onclick="solo()" class="buttons" id="singlePlayer">Single Player</div>
+        <div id="groupJoinButton" class="buttons" onclick="joinGroup()">Join a group!</div>
+        <input type="text" id="groupId" placeholder="Can only be numbers">
+        <div id="createGroupButton" class="buttons" onclick="createGroup()">create</div>
+    </div>
+    <div class="imagesContainer">
+        <img class="image" id="parliament" src="images/parliament.png" alt="Parliament building">
+        <img class="image" id="toronto" src="images/Toronto.png" alt="Toronto Skyline">
+        <img class="image" id="mapOfCanada" src="images/canadaMap.png" alt="Map of Canada">
+        <img class="image" id="beaver" src="images/beaver.png" alt="Beaver Coin">
+        <img class="image" id="alberta" src="images/alberta.png" alt="alberta">
+        <img class="image" id="native" src="images/indigenous.png" alt="Native Art">
+        <img class="image" id="moose" src="images/moose.png" alt="Moose">
+        <img class="image" id="hockey" src="images/hockey.png" alt="hockey">
+        <img class="image" id="mapleLeaf" src="images/mapleLeaf.png" alt="Maple Leaf">
+    </div>
+</body>
+<script src="index.js">
+</script>
+
+</html>
